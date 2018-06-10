@@ -1,3 +1,3 @@
 my
 
-i like git
+i like g
